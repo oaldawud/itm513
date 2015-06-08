@@ -1,12 +1,10 @@
-# itm513
- Open Source Programming - 32686 - ITMD 413 
+# itm513  Open Source Programming 
 
 # header 1
 ## header 2
 ### header h3
 
 
-> space
 *bold words*.
 **more em**.
 
